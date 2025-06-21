@@ -5,8 +5,10 @@
 		<version>1.0.0</version>
 		<note>
 			<item>Initial</item>
-			<item>Add front end view</item>
 		</note>
+		<addition>
+			<item>Add front end view</item>
+		</addition>
 	</changelog>
 	<changelog>
 		<element>com_com_examples</element>
